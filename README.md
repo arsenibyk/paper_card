@@ -1,1 +1,1 @@
-Its a karta_api library for python concept.
+Its a karta_api library for python (concept)
